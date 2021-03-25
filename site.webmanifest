@@ -5,7 +5,7 @@
     "background_color": "#ffffff",
     "display": "minimal-ui",
     "scope": "/",
-    "start_url": "/?source=pwa",
+    "start_url": "https://n-tuition.blogspot.com/?source=pwa",
     "name":"تطبيق دروس إن",
     "short_name":"دروس إن",
     "description": "دروس إن: تعلم تقنيات الويب الحديث",
