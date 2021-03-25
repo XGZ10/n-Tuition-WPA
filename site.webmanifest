@@ -9,6 +9,8 @@
     "name":"تطبيق دروس إن",
     "short_name":"دروس إن",
     "description": "دروس إن: تعلم تقنيات الويب الحديث",
+    "orientation": "portrait-primary",
+    "categories": ["معلوميات", "تقنية", "تعلم", "دروس", "برمجة", "الربح من الأنترنت"],
     "icons": [
         {
             "src": "https://1.bp.blogspot.com/-u_Lk-PiB3ak/YFyKJ-_FeAI/AAAAAAAAAyQ/jPxmoLYE7bEdVHO6npa3AUiBg3Ex67AWwCNcBGAsYHQ/s1600/android-chrome-192x192.png",
@@ -22,7 +24,5 @@
             "type": "image/png",
             "purpose":"any maskable"
         }
-    ],
-    "orientation": "portrait-primary",
-    "categories": ["معلوميات", "تقنية", "تعلم", "دروس", "برمجة", "الربح من الأنترنت"]
+    ]
 }
