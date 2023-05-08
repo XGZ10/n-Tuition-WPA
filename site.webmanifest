@@ -6,18 +6,18 @@
     "display":"minimal-ui",
     "scope": "/",
     "start_url":"/?source=pwa",
-    "name":"تطبيق دروس إن",
-    "short_name":"دروس إن",
-    "description":"دروس إن: تعلم تقنيات الويب الحديث",
+    "name":"تطبيق صور نت",
+    "short_name":"صور نت",
+    "description":"صور نت: تعلم تقنيات الويب الحديث",
     "icons":[
         {
-            "src":"https://1.bp.blogspot.com/-u_Lk-PiB3ak/YFyKJ-_FeAI/AAAAAAAAAyQ/jPxmoLYE7bEdVHO6npa3AUiBg3Ex67AWwCNcBGAsYHQ/s1600/android-chrome-192x192.png",
+            "src":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIMhO6HP0E8uN5_UuL6LP31D5Q3L2uELnOMWgcF7ERX7Fq_0RipWeg5DJkd4nkVUJPuI1-1HpzglpgP3P_jdXPXbO9dFLmZLlb-Lx0oXYTdpYPt-rjkkNt2_wQnLU206ks6avkUc3-naUSknO-nkmLecv6EI6WYlKKytxdSQpFseNUpKRD-0Qznp7nEw/s192/swrnet-android-icon-192x192.png",
             "sizes":"192x192",
             "type":"image/png",
             "purpose":"any maskable"
         },
         {
-            "src":"https://1.bp.blogspot.com/-OfQaLAtc5LM/YFyKJv-N_TI/AAAAAAAAAyM/b9Iy3LqolK44Fy9qc_ZYWyGk8zNUtRDkACNcBGAsYHQ/s1600/android-chrome-512x512.png",
+            "src":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZC3rLDDbJtvtOD6z3USg5RvhIdRJbEAvG4rkb0m2o9-jJx9S6CoTUQsZ1Imn4gCESueoG4_auN9ROaOrImH1439JYv7M9H8wkHyIie-h36O9WQLMrmW1axdP3wbmAkkDhHJ7aKTjjWmxm3xDe9HrFTDq1ms1V9NRljDPvPgG5mDhTgcId96xKDSF0Lw/s512/swrnet-icon.png",
             "sizes":"512x512",
             "type":"image/png",
             "purpose":"any maskable"
