@@ -14,13 +14,13 @@
             "src":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIMhO6HP0E8uN5_UuL6LP31D5Q3L2uELnOMWgcF7ERX7Fq_0RipWeg5DJkd4nkVUJPuI1-1HpzglpgP3P_jdXPXbO9dFLmZLlb-Lx0oXYTdpYPt-rjkkNt2_wQnLU206ks6avkUc3-naUSknO-nkmLecv6EI6WYlKKytxdSQpFseNUpKRD-0Qznp7nEw/s192/swrnet-android-icon-192x192.png",
             "sizes":"192x192",
             "type":"image/png",
-            "purpose":"any maskable"
+            "purpose":"maskable"
         },
         {
             "src":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyRH6koRO5u0Fu2u6VYq5y3MRZtMZ0VY3O9evk-j4iwNtB9fbUShkkDpzQ6wPatUJViMhm0u3VDdXizykOdJORDfdzln5EbclzTkIkSotUd0EgJFM_VFn6Y2Uzu7A5xEaO0DbvlJJjqwNYkrHxzp2qV74gqFsyBJr53oAV7h6Nv_h2th72TLYi0e90bA/s512/swrnet-icon-512x512.png",
             "sizes":"512x512",
             "type":"image/png",
-            "purpose":"any maskable"
+            "purpose":"maskable"
         }
     ],
     "orientation":"natural",
